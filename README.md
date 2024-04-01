@@ -1,5 +1,7 @@
 <h1># Automatización Web para Swag Labs</h1>
+
 ```markdown
+
 Este proyecto proporciona una automatización de pruebas para el sitio web [Swag Labs](https://www.saucedemo.com/) utilizando Selenium WebDriver. El objetivo principal es automatizar el proceso de inicio de sesión y la funcionalidad de agregar productos al carrito de compra.
 
 ## Requisitos
