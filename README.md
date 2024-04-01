@@ -49,6 +49,4 @@ gradle test
 
 Si deseas contribuir a este proyecto, por favor, envía un pull request con tus cambios para revisión.
 
-
-```
 ```
