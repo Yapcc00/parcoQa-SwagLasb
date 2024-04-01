@@ -1,8 +1,5 @@
-Si tu proyecto usa Gradle en lugar de Maven para la gestión de dependencias, puedes adaptar el `README.md` para reflejar eso. Aquí tienes cómo quedaría con las modificaciones necesarias para un proyecto basado en Gradle:
-
+<h1># Automatización Web para Swag Labs</h1>
 ```markdown
-# Automatización Web para Swag Labs
-
 Este proyecto proporciona una automatización de pruebas para el sitio web [Swag Labs](https://www.saucedemo.com/) utilizando Selenium WebDriver. El objetivo principal es automatizar el proceso de inicio de sesión y la funcionalidad de agregar productos al carrito de compra.
 
 ## Requisitos
