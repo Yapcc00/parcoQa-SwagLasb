@@ -2,7 +2,8 @@
 
 ```markdown
 
-Este proyecto proporciona una automatización de pruebas para el sitio web [Swag Labs](https://www.saucedemo.com/) utilizando Selenium WebDriver. El objetivo principal es automatizar el proceso de inicio de sesión y la funcionalidad de agregar productos al carrito de compra.
+Este proyecto proporciona una automatización de pruebas para el sitio web [Swag Labs](https://www.saucedemo.com/) utilizando Selenium WebDriver.
+El objetivo principal es automatizar el proceso de inicio de sesión y la funcionalidad de agregar productos al carrito de compra.
 
 ## Requisitos
 
@@ -14,7 +15,8 @@ Para ejecutar este proyecto, necesitarás:
 
 ## Configuración
 
-Antes de ejecutar el proyecto, es importante asegurar que todas las dependencias estén actualizadas. Esto se puede hacer ejecutando el siguiente comando en la terminal:
+Antes de ejecutar el proyecto, es importante asegurar que todas las dependencias estén actualizadas.
+Esto se puede hacer ejecutando el siguiente comando en la terminal:
 
 ```
 bash
@@ -35,7 +37,8 @@ Para usar Firefox, asegúrate de tener GeckoDriver instalado y correctamente con
 
 ### Chrome
 
-Si prefieres usar Chrome, deberás descargar ChromeDriver y también asegurarte de que esté configurado en tu PATH. Para cambiar el proyecto a Chrome, modifica la configuración del WebDriver en el código fuente.
+Si prefieres usar Chrome, deberás descargar ChromeDriver y también asegurarte de que esté configurado en tu PATH. Para cambiar el proyecto a Chrome,
+modifica la configuración del WebDriver en el código fuente.
 
 ## Ejecución
 
