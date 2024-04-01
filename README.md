@@ -29,18 +29,25 @@ gradle build
 
 ## Navegadores Soportados
 
+
 Este proyecto está configurado para usar Firefox por defecto, pero se puede adaptar fácilmente para trabajar con Chrome o cualquier otro navegador soportado por Selenium.
 
-### Firefox
+
+## Firefox
+
 
 Para usar Firefox, asegúrate de tener GeckoDriver instalado y correctamente configurado en tu PATH.
 
-### Chrome
+
+## Chrome
+
 
 Si prefieres usar Chrome, deberás descargar ChromeDriver y también asegurarte de que esté configurado en tu PATH. Para cambiar el proyecto a Chrome,
 modifica la configuración del WebDriver en el código fuente.
 
+
 ## Ejecución
+
 
 Para ejecutar las pruebas, puedes usar el siguiente comando en la terminal:
 
