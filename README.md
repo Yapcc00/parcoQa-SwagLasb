@@ -16,8 +16,10 @@ Para ejecutar este proyecto, necesitarás:
 
 Antes de ejecutar el proyecto, es importante asegurar que todas las dependencias estén actualizadas. Esto se puede hacer ejecutando el siguiente comando en la terminal:
 
-```bash
+```
+bash
 gradle build
+
 ```
 
 ## Navegadores Soportados
