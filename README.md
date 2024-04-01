@@ -21,11 +21,9 @@ Esto se puede hacer ejecutando el siguiente comando en la terminal:
 ```
 bash
 gradle build
-```
 
 
 ```markdown
-
 
 ## Navegadores Soportados
 
