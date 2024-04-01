@@ -19,8 +19,11 @@ Antes de ejecutar el proyecto, es importante asegurar que todas las dependencias
 ```
 bash
 gradle build
-
 ```
+
+
+```markdown
+
 
 ## Navegadores Soportados
 
@@ -46,4 +49,6 @@ gradle test
 
 Si deseas contribuir a este proyecto, por favor, envía un pull request con tus cambios para revisión.
 
+
+```
 ```
